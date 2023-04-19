@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "location_id": "152887",
+      "name": "Hyatt Ziva Cancun",
+      "address_obj": {
+        "street1": "Blvd. Kukulcan, Manzana 51",
+        "street2": "Lote 7",
+        "city": "Cancun",
+        "state": "Quintana Roo",
+        "country": "Mexico",
+        "postalcode": "77500",
+        "address_string": "Blvd. Kukulcan, Manzana 51 Lote 7, Cancun 77500 Mexico"
+      }
+    },
+    {
+      "location_id": "642781",
+      "name": "Hyatt Zilara Cancun",
+      "address_obj": {
+        "street1": "Blvd. Kukulcan Km 11.5",
+        "street2": "Zona Hotelera",
+        "city": "Cancun",
+        "state": "Quintana Roo",
+        "country": "Mexico",
+        "postalcode": "77500",
+        "address_string": "Blvd. Kukulcan Km 11.5 Zona Hotelera, Cancun 77500 Mexico"
+      }
+    },
+    {
+      "location_id": "16663802",
+      "name": "Hyatt Ziva Cap Cana",
+      "address_obj": {
+        "street1": "Boulevard Zona Hotelera",
+        "city": "Cap Cana",
+        "state": "La Altagracia Province",
+        "country": "Caribbean",
+        "postalcode": "23302",
+        "address_string": "Boulevard Zona Hotelera, Cap Cana, Punta Cana 23302 Dominican Republic"
+      }
+    },
+    {
+      "location_id": "16663786",
+      "name": "Hyatt Zilara Cap Cana",
+      "address_obj": {
+        "street1": "Boulevard Zona Hotelera",
+        "street2": "Playa Juanillo",
+        "city": "Cap Cana",
+        "state": "La Altagracia Province",
+        "country": "Caribbean",
+        "postalcode": "23302",
+        "address_string": "Boulevard Zona Hotelera Playa Juanillo, Cap Cana, Punta Cana 23302 Dominican Republic"
+      }
+    },
+    {
+      "location_id": "469312",
+      "name": "Hyatt Ziva Los Cabos",
+      "address_obj": {
+        "street1": "Paseo Malecon Sn Lote 5",
+        "street2": "",
+        "city": "San Jose del Cabo",
+        "state": "Baja California Sur",
+        "country": "Mexico",
+        "postalcode": "23405",
+        "address_string": "Paseo Malecon Sn Lote 5, San Jose del Cabo 23405 Mexico"
+      }
+    },
+    {
+      "location_id": "6535703",
+      "name": "Hyatt Zilara Rose Hall",
+      "address_obj": {
+        "street1": "Rose Hall Road",
+        "city": "Rose Hall",
+        "state": "Jamaica",
+        "country": "Caribbean",
+        "address_string": "Rose Hall Road, Rose Hall, Montego Bay Jamaica"
+      }
+    },
+    {
+      "location_id": "112092",
+      "name": "Hyatt Regency Orlando",
+      "address_obj": {
+        "street1": "9801 International Drive",
+        "city": "Orlando",
+        "state": "Florida",
+        "country": "United States",
+        "postalcode": "32819-8104",
+        "address_string": "9801 International Drive, Orlando, FL 32819-8104"
+      }
+    },
+    {
+      "location_id": "481596",
+      "name": "Hyatt Ziva Puerto Vallarta",
+      "address_obj": {
+        "street1": "Carretera A Barra de Navidad Km. 3.5",
+        "street2": "Playa Las Estacas S/N",
+        "city": "Puerto Vallarta",
+        "state": "Jalisco",
+        "country": "Mexico",
+        "postalcode": "48390",
+        "address_string": "Carretera A Barra de Navidad Km. 3.5 Playa Las Estacas S/N, Puerto Vallarta 48390 Mexico"
+      }
+    },
+    {
+      "location_id": "144433",
+      "name": "Hyatt Regency Grand Cypress",
+      "address_obj": {
+        "street1": "One Grand Cypress Boulevard",
+        "street2": "",
+        "city": "Orlando",
+        "state": "Florida",
+        "country": "United States",
+        "postalcode": "32836-6799",
+        "address_string": "One Grand Cypress Boulevard, Orlando, FL 32836-6799"
+      }
+    },
+    {
+      "location_id": "9838640",
+      "name": "Grand Hyatt Baha Mar",
+      "address_obj": {
+        "street1": "One Baha Mar Boulevard",
+        "city": "Nassau",
+        "state": "New Providence Island",
+        "country": "Bahamas",
+        "address_string": "One Baha Mar Boulevard, Nassau New Providence Island"
+      }
+    }
+  ]
+}

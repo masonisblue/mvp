@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "location_id": "21307994",
+      "name": "Turquoize at Hyatt Ziva Cancun",
+      "distance": "0.27797632144613366",
+      "bearing": "south",
+      "address_obj": {
+        "street1": "Blvd. Kukulcan, Manzana 51, Lote. 7",
+        "city": "Cancun",
+        "state": "Quintana Roo",
+        "country": "Mexico",
+        "postalcode": "77500",
+        "address_string": "Blvd. Kukulcan, Manzana 51, Lote. 7, Cancun 77500 Mexico"
+      }
+    },
+    {
+      "location_id": "185325",
+      "name": "Girasol Condo Hotel",
+      "distance": "0.292422182137675",
+      "bearing": "southwest",
+      "address_obj": {
+        "street1": "Boulevard Kukulkan KM 9.5",
+        "street2": "Chac Mool Beach",
+        "city": "Cancun",
+        "state": "Quintana Roo",
+        "country": "Mexico",
+        "postalcode": "77500",
+        "address_string": "Boulevard Kukulkan KM 9.5 Chac Mool Beach, Cancun 77500 Mexico"
+      }
+    },
+    {
+      "location_id": "152681",
+      "name": "Grand Fiesta Americana Coral Beach Cancun All Inclusive",
+      "distance": "0.30717951855162545",
+      "bearing": "southwest",
+      "address_obj": {
+        "street1": "Boulevard Kukulcan Km 9.5",
+        "street2": "Zona Hotelera",
+        "city": "Cancun",
+        "state": "Quintana Roo",
+        "country": "Mexico",
+        "postalcode": "77500",
+        "address_string": "Boulevard Kukulcan Km 9.5 Zona Hotelera, Cancun 77500 Mexico"
+      }
+    },
+    {
+      "location_id": "152887",
+      "name": "Hyatt Ziva Cancun",
+      "distance": "0.30342966514642",
+      "bearing": "south",
+      "address_obj": {
+        "street1": "Blvd. Kukulcan, Manzana 51",
+        "street2": "Lote 7",
+        "city": "Cancun",
+        "state": "Quintana Roo",
+        "country": "Mexico",
+        "postalcode": "77500",
+        "address_string": "Blvd. Kukulcan, Manzana 51 Lote 7, Cancun 77500 Mexico"
+      }
+    },
+    {
+      "location_id": "155818",
+      "name": "Krystal Altitude Cancun",
+      "distance": "0.37835037327387594",
+      "bearing": "south",
+      "address_obj": {
+        "street1": "Blvd Kukulcan Km 8.5",
+        "street2": "Zona Hotelera",
+        "city": "Cancun",
+        "state": "Quintana Roo",
+        "country": "Mexico",
+        "postalcode": "77500",
+        "address_string": "Blvd Kukulcan Km 8.5 Zona Hotelera, Cancun 77500 Mexico"
+      }
+    },
+    {
+      "location_id": "154896",
+      "name": "Krystal Cancun",
+      "distance": "0.3940785090479592",
+      "bearing": "south",
+      "address_obj": {
+        "street1": "Paseo Kukulcan Km. 9",
+        "street2": "Lotes 9 y 9A Zona Hotelera",
+        "city": "Cancun",
+        "state": "Quintana Roo",
+        "country": "Mexico",
+        "postalcode": "77500",
+        "address_string": "Paseo Kukulcan Km. 9 Lotes 9 y 9A Zona Hotelera, Cancun 77500 Mexico"
+      }
+    },
+    {
+      "location_id": "4418515",
+      "name": "Aloft Cancun",
+      "distance": "0.401709576174782",
+      "bearing": "southwest",
+      "address_obj": {
+        "street1": "Boulevard Kukulcan KM 9, MZ 48 L-8-1, Zona Hotelera",
+        "street2": "Mz 48 L-8-1, Zona Hotelera",
+        "city": "Cancun",
+        "state": "Quintana Roo",
+        "country": "Mexico",
+        "postalcode": "77500",
+        "address_string": "Boulevard Kukulcan KM 9, MZ 48 L-8-1, Zona Hotelera Mz 48 L-8-1, Zona Hotelera, Cancun 77500 Mexico"
+      }
+    },
+    {
+      "location_id": "286104",
+      "name": "Hotel Riu Cancun",
+      "distance": "0.4006240478091777",
+      "bearing": "west",
+      "address_obj": {
+        "street1": "Blvd. Kukulcan, Km 9",
+        "street2": "Manzana 50, Lote 5",
+        "city": "Cancun",
+        "state": "Quintana Roo",
+        "country": "Mexico",
+        "postalcode": "77500",
+        "address_string": "Blvd. Kukulcan, Km 9 Manzana 50, Lote 5, Cancun 77500 Mexico"
+      }
+    },
+    {
+      "location_id": "303140",
+      "name": "Hotel Riu Palace Las Americas",
+      "distance": "0.4940295926409196",
+      "bearing": "west",
+      "address_obj": {
+        "street1": "Boulevard Kukulcan, Km 8.5, Manzana 50",
+        "street2": "Lote 4, Zona Hotelera",
+        "city": "Cancun",
+        "state": "Quintana Roo",
+        "country": "Mexico",
+        "postalcode": "77500",
+        "address_string": "Boulevard Kukulcan, Km 8.5, Manzana 50 Lote 4, Zona Hotelera, Cancun 77500 Mexico"
+      }
+    },
+    {
+      "location_id": "496241",
+      "name": "Suites Costa Blanca Cancun",
+      "distance": "0.5185625155587004",
+      "bearing": "west",
+      "address_obj": {
+        "street1": "Avenida Kukulkan Km. 8.5",
+        "city": "Cancun",
+        "state": "Quintana Roo",
+        "country": "Mexico",
+        "postalcode": "77500",
+        "address_string": "Avenida Kukulkan Km. 8.5, Cancun 77500 Mexico"
+      }
+    }
+  ]
+}
