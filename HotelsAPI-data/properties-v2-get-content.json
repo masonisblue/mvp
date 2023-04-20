@@ -1,0 +1,1618 @@
+{
+  "data": {
+    "propertyInfo": {
+      "__typename": "PropertyInfo",
+      "propertyContentSectionGroups": {
+        "__typename": "PropertyContentSectionGroups",
+        "aboutThisProperty": {
+          "__typename": "PropertyContentSectionGroup",
+          "sectionName": null,
+          "sections": [
+            {
+              "__typename": "PropertyContentSection",
+              "sectionName": null,
+              "header": {
+                "__typename": "LodgingHeader",
+                "icon": null,
+                "text": "About this property",
+                "subText": null
+              },
+              "bodySubSections": [
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Golden Time Hotel",
+                        "subText": null,
+                        "icon": null,
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemMarkup",
+                          "content": {
+                            "__typename": "MarkupText",
+                            "text": "Golden Time Hotel offers an airport shuttle (available on request) for VND 350000 per vehicle one way. You can indulge in facials or mani/pedis, then grab a bite to eat at the coffee shop/cafe. Other features include a bar/lounge and a terrace.   ",
+                            "markupType": "HTML"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 1
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Languages",
+                        "subText": null,
+                        "icon": null,
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Chinese (Mandarin), English, Russian, Vietnamese",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 1
+                }
+              ],
+              "action": null
+            }
+          ]
+        },
+        "aboutThisHost": null,
+        "amenities": {
+          "__typename": "PropertyContentSectionGroup",
+          "sectionName": null,
+          "sections": [
+            {
+              "__typename": "PropertyContentSection",
+              "sectionName": "At a glance",
+              "header": {
+                "__typename": "LodgingHeader",
+                "icon": null,
+                "text": "At a glance",
+                "subText": null
+              },
+              "bodySubSections": [
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Hotel size",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "44 rooms",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Arriving/Leaving",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Check-in time starts at 2:00 PM",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Check-out time is noon",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Restrictions related to your trip",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Check COVID-19 restrictions.",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Special check-in instructions",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "This property offers transfers from the airport and train station (surcharges may apply); to arrange pick-up, guests must contact the property 48 hours prior to arrival, using the contact information on the booking confirmation",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Front desk staff will greet guests on arrival",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Required at check-in",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Credit card, debit card, or cash deposit required for incidental charges",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Government-issued photo ID may be required",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Local laws may restrict unmarried guests from sharing a room ",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Children",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "No cribs (infant beds)",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Pets",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "No pets or service animals allowed",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Internet",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "wifi",
+                          "description": "",
+                          "size": null,
+                          "token": "wifi",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Free WiFi in public areas",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Free WiFi in rooms",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Parking",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "local_parking",
+                          "description": "",
+                          "size": null,
+                          "token": "local_parking",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Onsite self parking (VND 100000 per day; includes in/out privileges)",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Transfers",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Airport shuttle (available on request)* ",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Train station pick-up*",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                }
+              ],
+              "action": null
+            },
+            {
+              "__typename": "PropertyContentSection",
+              "sectionName": "Property amenities",
+              "header": {
+                "__typename": "LodgingHeader",
+                "icon": null,
+                "text": "Property amenities",
+                "subText": null
+              },
+              "bodySubSections": [
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Food and drink",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "local_dining",
+                          "description": "",
+                          "size": null,
+                          "token": "local_dining",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Free breakfast",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Restaurant",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Bar/lounge",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Coffee shop",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Room service (limited hours)",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Traveling with children",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "family_friendly",
+                          "description": "",
+                          "size": null,
+                          "token": "family_friendly",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Grocery/convenience store",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "What to do",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "lob_activities",
+                          "description": "",
+                          "size": null,
+                          "token": "lob_activities",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Beach nearby",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Working away",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "business_center",
+                          "description": "",
+                          "size": null,
+                          "token": "business_center",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "24-hour business center",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Meeting room",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Services",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "room_service",
+                          "description": "",
+                          "size": null,
+                          "token": "room_service",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "24-hour front desk",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Concierge services",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Tour/ticket assistance",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Dry cleaning/laundry services",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Hair salon",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Free newspapers in lobby",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Luggage storage",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Porter/bellhop",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Bicycle rentals",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Facilities",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Safe-deposit box at front desk",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Terrace",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Accessibility",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "accessible",
+                          "description": "",
+                          "size": null,
+                          "token": "accessible",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Elevator",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                }
+              ],
+              "action": null
+            },
+            {
+              "__typename": "PropertyContentSection",
+              "sectionName": "Room amenities",
+              "header": {
+                "__typename": "LodgingHeader",
+                "icon": null,
+                "text": "Room amenities",
+                "subText": null
+              },
+              "bodySubSections": [
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Be entertained",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "32-inch TV",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Cable TV channels",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Home comfort",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Air conditioning (climate-controlled)",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Minibar",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Coffee/tea maker",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Bathrobes and slippers",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Washer and dryer",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Freshen up",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Private bathroom",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Bathtub or shower",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Stay connected",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Desk",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Free WiFi",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Phone",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Food and drink",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "local_dining",
+                          "description": "",
+                          "size": null,
+                          "token": "local_dining",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Free bottled water",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "More",
+                        "subText": null,
+                        "icon": {
+                          "__typename": "Icon",
+                          "id": "done",
+                          "description": "",
+                          "size": null,
+                          "token": "done",
+                          "theme": null
+                        },
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Daily housekeeping",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "In-room safe",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 2
+                }
+              ],
+              "action": null
+            }
+          ]
+        },
+        "importantInfo": null,
+        "policies": {
+          "__typename": "PropertyContentSectionGroup",
+          "sectionName": "Policies",
+          "sections": [
+            {
+              "__typename": "PropertyContentSection",
+              "sectionName": null,
+              "header": {
+                "__typename": "LodgingHeader",
+                "icon": null,
+                "text": "Fees & policies",
+                "subText": null
+              },
+              "bodySubSections": [
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Optional extras",
+                        "subText": null,
+                        "icon": null,
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemMarkup",
+                          "content": {
+                            "__typename": "MarkupText",
+                            "text": "<ul><li><strong>Airport shuttle</strong> service is offered for an extra charge of VND 350000 per vehicle (one way)</li><li><strong>Train station pick-up</strong> service is offered for an extra charge</li> </ul>",
+                            "markupType": "HTML"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 1
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Parking",
+                        "subText": null,
+                        "icon": null,
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemMarkup",
+                          "content": {
+                            "__typename": "MarkupText",
+                            "text": "<ul><li>Self parking costs VND 100000 per day with in/out privileges</li></ul>",
+                            "markupType": "HTML"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 1
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Policies",
+                        "subText": null,
+                        "icon": null,
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemTexts",
+                          "contents": [
+                            {
+                              "__typename": "PropertyContentText",
+                              "primary": {
+                                "__typename": "LodgingEnrichedMessage",
+                                "value": "<p>Only registered guests are allowed in the guestrooms. </p> <p>Please note that cultural norms and guest policies may differ by country and by property. The policies listed are provided by the property. </p><p>This property accepts credit cards.</p>",
+                                "accessibilityLabel": null,
+                                "icon": null
+                              },
+                              "secondary": null
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 1
+                },
+                {
+                  "__typename": "PropertyContentSubSection",
+                  "elements": [
+                    {
+                      "__typename": "PropertyContent",
+                      "header": {
+                        "__typename": "LodgingHeader",
+                        "text": "Also known as",
+                        "subText": null,
+                        "icon": null,
+                        "headerImage": null
+                      },
+                      "items": [
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Golden Time Hotel Nha Trang",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Golden Time Hotel",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Golden Time Nha Trang",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Golden Time Hotel Hotel",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Golden Time Hotel Nha Trang",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        },
+                        {
+                          "__typename": "PropertyContentItemText",
+                          "content": {
+                            "__typename": "PropertyContentText",
+                            "primary": {
+                              "__typename": "LodgingEnrichedMessage",
+                              "value": "Golden Time Hotel Hotel Nha Trang",
+                              "accessibilityLabel": null,
+                              "icon": null
+                            },
+                            "secondary": null
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "expando": null,
+                  "maxColumns": 1
+                }
+              ],
+              "action": null
+            }
+          ]
+        },
+        "specialFeatures": {
+          "__typename": "PropertyContentSectionGroup",
+          "sectionName": null,
+          "sections": []
+        }
+      }
+    }
+  }
+}

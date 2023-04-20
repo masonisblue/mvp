@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "id": 620760902,
+      "is_blessed": false,
+      "caption": "Exterior",
+      "published_date": "2022-07-28T16:26:30.268Z",
+      "images": {
+        "thumbnail": {
+          "height": 50,
+          "width": 50,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/00/0f/46/exterior.jpg"
+        },
+        "small": {
+          "height": 150,
+          "width": 150,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/00/0f/46/exterior.jpg"
+        },
+        "medium": {
+          "height": 167,
+          "width": 250,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/00/0f/46/exterior.jpg"
+        },
+        "large": {
+          "height": 367,
+          "width": 550,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/00/0f/46/exterior.jpg"
+        },
+        "original": {
+          "height": 682,
+          "width": 1023,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/00/0f/46/exterior.jpg"
+        }
+      },
+      "album": "Hotel & Grounds",
+      "source": {
+        "name": "Management",
+        "localized_name": "Management"
+      }
+    },
+    {
+      "id": 272180195,
+      "is_blessed": false,
+      "caption": "",
+      "published_date": "2017-08-10T18:39:36.35Z",
+      "images": {
+        "thumbnail": {
+          "height": 50,
+          "width": 50,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/39/23/e3/hyatt-ziva-cancun.jpg"
+        },
+        "small": {
+          "height": 150,
+          "width": 150,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/39/23/e3/hyatt-ziva-cancun.jpg"
+        },
+        "medium": {
+          "height": 167,
+          "width": 250,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/39/23/e3/hyatt-ziva-cancun.jpg"
+        },
+        "large": {
+          "height": 367,
+          "width": 550,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/39/23/e3/hyatt-ziva-cancun.jpg"
+        },
+        "original": {
+          "height": 1333,
+          "width": 2000,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/39/23/e3/hyatt-ziva-cancun.jpg"
+        }
+      },
+      "album": "Room/Suite",
+      "source": {
+        "name": "Management",
+        "localized_name": "Management"
+      },
+      "user": {
+        "username": "Management"
+      }
+    },
+    {
+      "id": 309711650,
+      "is_blessed": false,
+      "caption": "",
+      "published_date": "2018-03-28T15:40:30.505Z",
+      "images": {
+        "thumbnail": {
+          "height": 50,
+          "width": 50,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/75/d3/22/hyatt-ziva-cancun.jpg"
+        },
+        "small": {
+          "height": 150,
+          "width": 150,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/75/d3/22/hyatt-ziva-cancun.jpg"
+        },
+        "medium": {
+          "height": 167,
+          "width": 250,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/75/d3/22/hyatt-ziva-cancun.jpg"
+        },
+        "large": {
+          "height": 367,
+          "width": 550,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/75/d3/22/hyatt-ziva-cancun.jpg"
+        },
+        "original": {
+          "height": 1333,
+          "width": 2000,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/75/d3/22/hyatt-ziva-cancun.jpg"
+        }
+      },
+      "album": "Pool/Beach Area",
+      "source": {
+        "name": "Management",
+        "localized_name": "Management"
+      },
+      "user": {
+        "username": "Management"
+      }
+    },
+    {
+      "id": 309714354,
+      "is_blessed": false,
+      "caption": "",
+      "published_date": "2018-03-28T16:04:03.544Z",
+      "images": {
+        "thumbnail": {
+          "height": 50,
+          "width": 50,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/75/dd/b2/hyatt-ziva-cancun.jpg"
+        },
+        "small": {
+          "height": 150,
+          "width": 150,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/75/dd/b2/hyatt-ziva-cancun.jpg"
+        },
+        "medium": {
+          "height": 167,
+          "width": 250,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/75/dd/b2/hyatt-ziva-cancun.jpg"
+        },
+        "large": {
+          "height": 367,
+          "width": 550,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/75/dd/b2/hyatt-ziva-cancun.jpg"
+        },
+        "original": {
+          "height": 1333,
+          "width": 2000,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/75/dd/b2/hyatt-ziva-cancun.jpg"
+        }
+      },
+      "album": "Pool/Beach Area",
+      "source": {
+        "name": "Management",
+        "localized_name": "Management"
+      },
+      "user": {
+        "username": "Management"
+      }
+    },
+    {
+      "id": 280767532,
+      "is_blessed": false,
+      "caption": "",
+      "published_date": "2017-09-21T20:35:18.351Z",
+      "images": {
+        "thumbnail": {
+          "height": 50,
+          "width": 50,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/bc/2c/2c/hyatt-ziva-cancun.jpg"
+        },
+        "small": {
+          "height": 150,
+          "width": 150,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/bc/2c/2c/hyatt-ziva-cancun.jpg"
+        },
+        "medium": {
+          "height": 167,
+          "width": 250,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/bc/2c/2c/hyatt-ziva-cancun.jpg"
+        },
+        "large": {
+          "height": 366,
+          "width": 550,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/bc/2c/2c/hyatt-ziva-cancun.jpg"
+        },
+        "original": {
+          "height": 1003,
+          "width": 1504,
+          "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/bc/2c/2c/hyatt-ziva-cancun.jpg"
+        }
+      },
+      "album": "Pool/Beach Area",
+      "source": {
+        "name": "Management",
+        "localized_name": "Management"
+      },
+      "user": {
+        "username": "Management"
+      }
+    }
+  ]
+}

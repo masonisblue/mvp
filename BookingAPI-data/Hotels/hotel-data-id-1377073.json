@@ -1,0 +1,77 @@
+{
+  "email": "",
+  "countrycode": "de",
+  "checkin": {
+    "to": "23:30",
+    "24_hour_available": 0,
+    "from": "15:00"
+  },
+  "country": "Germany",
+  "main_photo_url": "https://cf.bstatic.com/images/hotel/square60/331/331395602.jpg",
+  "main_photo_id": 331395602,
+  "description_translations": [
+    {
+      "description": "This hotel is set in a modern 17-storey building on Berlin's Kurfürstendamm boulevard. The RIU Plaza Berlin is a 5-minute walk from Kurfürstendamm Underground Station and the world-famous KaDeWe department store.\n\nAll rooms and suites at the Hotel Riu Plaza Berlin am Kurfürstendamm feature luxury furnishings. Each room includes a flat-screen satellite TV, a safe, fridge, air conditioning and a private bathroom.\n\nHigh-speed WiFi is provided free of charge for guests in all areas of the hotel. Use of the hotel fitness room is also complimentary. The Hotel Riu Plaza Berlin am Kurfürstendamm also boasts a 24-hour reception and extensive conference facilities.\n\nThe hotel's own restaurant serves a varied breakfast buffet, as well as lunch and dinner à la carte.\n\nThe Hotel Riu Plaza Berlin am Kurfürstendamm is 3 km from the Brandenburg Gate, 10 km from Tegel Airport and 22 km from Schönefeld Airport.",
+      "descriptiontype_id": 6,
+      "languagecode": "en-gb"
+    },
+    {
+      "description": "Guests travelling with children must inform the property in advance how many will be staying and of their ages upon booking. Contact details can be found on the booking confirmation.\n\nWhen booking 10 rooms or more, different policies and additional supplements may apply. In response to Coronavirus (COVID-19), additional safety and sanitation measures are in effect at this property. Due to Coronavirus (COVID-19), this property is taking steps to help protect the safety of guests and staff. Certain services and amenities may be reduced or unavailable as a result. Parking is subject to availability due to limited spaces. Due to Coronavirus (COVID-19), wearing a face mask is mandatory in all indoor common areas.",
+      "languagecode": "en-gb",
+      "descriptiontype_id": 7
+    }
+  ],
+  "district": null,
+  "hotel_facilities": "2,3,5,6,7,8,11,15,16,22,25,28,46,47,48,51,75,80,91,96,107,108,109,117,163,181,185,186,203,204,305,418,420,422,423,425,426,436,440,444,445,447,449,450,451,453,455,456,457,458,459,460,461,462,464,465,466,467,468,478,483,485,486,489,492,493,495,496,497",
+  "languages_spoken": {
+    "languagecode": [
+      "ar",
+      "de",
+      "en-gb",
+      "es",
+      "fr",
+      "it"
+    ]
+  },
+  "class": 4,
+  "is_single_unit_vr": 0,
+  "hotel_facilities_filtered": "3,5,6,7,8,11,15,16,22,25,28,48,51,75,80,91,108,109,117,163,181,185,186,203,204,305,418,420,422,423,425,426,436,440,444,445,447,449,450,451,453,455,456,457,458,459,460,461,462,464,465,466,467,468,478,483,485,486,489,492,493,495,496,497",
+  "city": "Berlin",
+  "review_score": "8.3",
+  "checkout": {
+    "24_hour_available": 0,
+    "from": "00:30",
+    "to": "12:00"
+  },
+  "preferred": 1,
+  "review_nr": 16063,
+  "is_vacation_rental": 0,
+  "zip": "10777",
+  "name": "Riu Plaza Berlin",
+  "preferred_plus": 0,
+  "url": "https://www.booking.com/hotel/de/riu-plaza-berlin.html",
+  "hotel_id": 1377073,
+  "location": {
+    "latitude": 52.5002932226084,
+    "longitude": 13.3467457829422
+  },
+  "review_score_word": "Very good",
+  "class_is_estimated": 1,
+  "district_id": 5844,
+  "booking_home": {
+    "quality_class": null,
+    "is_vacation_rental": 0,
+    "is_aparthotel": 0,
+    "is_booking_home": 0,
+    "is_single_unit_property": 0,
+    "group": "hotels_and_others",
+    "is_single_type_property": 0,
+    "segment": 0
+  },
+  "currencycode": "EUR",
+  "entrance_photo_url": "https://cf.bstatic.com/images/hotel/square60/272/272369306.jpg",
+  "hoteltype_id": 204,
+  "ranking": 9673114,
+  "city_id": -1746443,
+  "address": "Martin-Luther-Strasse 1"
+}

@@ -16,6 +16,8 @@
     "@emotion/styled": "latest",
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
+    "@react-google-maps/api": "^2.18.1",
+    "google-map-react": "^2.2.0",
     "next": "latest",
     "prop-types": "latest",
     "react": "latest",

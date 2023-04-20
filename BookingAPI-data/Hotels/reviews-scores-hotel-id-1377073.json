@@ -1,0 +1,734 @@
+{
+  "hotel_id": 1377073,
+  "score_breakdown": [
+    {
+      "from_year": 2020,
+      "question": [
+        {
+          "score": 8.6,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Cleanliness",
+          "question": "hotel_clean",
+          "count": 15924
+        },
+        {
+          "score": 8.6,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Comfort",
+          "question": "hotel_comfort",
+          "count": 15887
+        },
+        {
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Facilities",
+          "count": 15935,
+          "question": "hotel_services",
+          "score": 8.5
+        },
+        {
+          "score": 9.1,
+          "count": 15885,
+          "question": "hotel_location",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Location"
+        },
+        {
+          "score": 8.8,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Staff",
+          "question": "hotel_staff",
+          "count": 15929
+        },
+        {
+          "count": 16063,
+          "question": "total",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Total",
+          "score": 8.3
+        },
+        {
+          "score": 8.5,
+          "question": "hotel_value",
+          "count": 15924,
+          "localized_question": "Value for money",
+          "score_comparison_to_ufi_average": 0
+        },
+        {
+          "question": "hotel_wifi",
+          "count": 1584,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "WiFi",
+          "score": 8.7
+        }
+      ],
+      "count": 16063,
+      "customer_type": "total",
+      "average_score": "8.6"
+    },
+    {
+      "average_score": "8.9",
+      "customer_type": "with_friends",
+      "question": [
+        {
+          "count": 1077,
+          "question": "hotel_clean",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Cleanliness",
+          "score": 8.8
+        },
+        {
+          "score": "9.0",
+          "count": 1076,
+          "question": "hotel_comfort",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Comfort"
+        },
+        {
+          "score": 8.8,
+          "count": 1078,
+          "question": "hotel_services",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Facilities"
+        },
+        {
+          "score": 9.2,
+          "question": "hotel_location",
+          "count": 1077,
+          "localized_question": "Location",
+          "score_comparison_to_ufi_average": 0
+        },
+        {
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Staff",
+          "question": "hotel_staff",
+          "count": 1080,
+          "score": "9.0"
+        },
+        {
+          "localized_question": "Total",
+          "score_comparison_to_ufi_average": 0,
+          "count": 1083,
+          "question": "total",
+          "score": 8.6
+        },
+        {
+          "count": 1078,
+          "question": "hotel_value",
+          "localized_question": "Value for money",
+          "score_comparison_to_ufi_average": 1,
+          "score": 8.8
+        },
+        {
+          "localized_question": "WiFi",
+          "score_comparison_to_ufi_average": 0,
+          "question": "hotel_wifi",
+          "count": 29,
+          "score": 8.7
+        }
+      ],
+      "count": 1083,
+      "from_year": 2020
+    },
+    {
+      "from_year": 2020,
+      "count": 2867,
+      "question": [
+        {
+          "score": 8.7,
+          "localized_question": "Cleanliness",
+          "score_comparison_to_ufi_average": 0,
+          "question": "hotel_clean",
+          "count": 2833
+        },
+        {
+          "score": 8.6,
+          "count": 2827,
+          "question": "hotel_comfort",
+          "localized_question": "Comfort",
+          "score_comparison_to_ufi_average": 0
+        },
+        {
+          "count": 2838,
+          "question": "hotel_services",
+          "localized_question": "Facilities",
+          "score_comparison_to_ufi_average": 0,
+          "score": 8.5
+        },
+        {
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Location",
+          "question": "hotel_location",
+          "count": 2826,
+          "score": "9.0"
+        },
+        {
+          "count": 2825,
+          "question": "hotel_staff",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Staff",
+          "score": 8.8
+        },
+        {
+          "score": 8.3,
+          "question": "total",
+          "count": 2867,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Total"
+        },
+        {
+          "localized_question": "Value for money",
+          "score_comparison_to_ufi_average": 0,
+          "count": 2831,
+          "question": "hotel_value",
+          "score": 8.5
+        },
+        {
+          "score": 8.7,
+          "count": 565,
+          "question": "hotel_wifi",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "WiFi"
+        }
+      ],
+      "average_score": "8.6",
+      "customer_type": "solo_traveller"
+    },
+    {
+      "average_score": "8.6",
+      "customer_type": "couple",
+      "count": 6884,
+      "question": [
+        {
+          "count": 6827,
+          "question": "hotel_clean",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Cleanliness",
+          "score": 8.5
+        },
+        {
+          "score": 8.5,
+          "count": 6808,
+          "question": "hotel_comfort",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Comfort"
+        },
+        {
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Facilities",
+          "question": "hotel_services",
+          "count": 6828,
+          "score": 8.4
+        },
+        {
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Location",
+          "question": "hotel_location",
+          "count": 6806,
+          "score": 9.1
+        },
+        {
+          "localized_question": "Staff",
+          "score_comparison_to_ufi_average": 0,
+          "question": "hotel_staff",
+          "count": 6833,
+          "score": 8.8
+        },
+        {
+          "score": 8.2,
+          "localized_question": "Total",
+          "score_comparison_to_ufi_average": 0,
+          "count": 6884,
+          "question": "total"
+        },
+        {
+          "score": 8.4,
+          "localized_question": "Value for money",
+          "score_comparison_to_ufi_average": 0,
+          "count": 6825,
+          "question": "hotel_value"
+        },
+        {
+          "score": 8.7,
+          "question": "hotel_wifi",
+          "count": 486,
+          "localized_question": "WiFi",
+          "score_comparison_to_ufi_average": 0
+        }
+      ],
+      "from_year": 2020
+    },
+    {
+      "from_year": 2020,
+      "count": 4089,
+      "question": [
+        {
+          "score": 8.6,
+          "count": 4064,
+          "question": "hotel_clean",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Cleanliness"
+        },
+        {
+          "score": 8.6,
+          "question": "hotel_comfort",
+          "count": 4057,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Comfort"
+        },
+        {
+          "question": "hotel_services",
+          "count": 4069,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Facilities",
+          "score": 8.6
+        },
+        {
+          "score": 9.2,
+          "question": "hotel_location",
+          "count": 4059,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Location"
+        },
+        {
+          "score": "9.0",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Staff",
+          "count": 4070,
+          "question": "hotel_staff"
+        },
+        {
+          "score": 8.4,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Total",
+          "question": "total",
+          "count": 4089
+        },
+        {
+          "score": 8.5,
+          "localized_question": "Value for money",
+          "score_comparison_to_ufi_average": 0,
+          "question": "hotel_value",
+          "count": 4066
+        },
+        {
+          "score": "9.0",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "WiFi",
+          "question": "hotel_wifi",
+          "count": 285
+        }
+      ],
+      "customer_type": "family",
+      "average_score": "8.7"
+    },
+    {
+      "average_score": "8.7",
+      "customer_type": "",
+      "from_year": 2020,
+      "question": [
+        {
+          "score": 8.7,
+          "count": 2200,
+          "question": "hotel_clean",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Cleanliness"
+        },
+        {
+          "score": 8.8,
+          "localized_question": "Comfort",
+          "score_comparison_to_ufi_average": 0,
+          "count": 2195,
+          "question": "hotel_comfort"
+        },
+        {
+          "localized_question": "Facilities",
+          "score_comparison_to_ufi_average": 0,
+          "count": 2200,
+          "question": "hotel_services",
+          "score": 8.7
+        },
+        {
+          "question": "hotel_location",
+          "count": 2194,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Location",
+          "score": 9.2
+        },
+        {
+          "count": 2201,
+          "question": "hotel_staff",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Staff",
+          "score": 8.8
+        },
+        {
+          "count": 2223,
+          "question": "total",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Total",
+          "score": 8.4
+        },
+        {
+          "score": 8.6,
+          "localized_question": "Value for money",
+          "score_comparison_to_ufi_average": 0,
+          "count": 2202,
+          "question": "hotel_value"
+        },
+        {
+          "count": 248,
+          "question": "hotel_wifi",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "WiFi",
+          "score": 8.5
+        }
+      ],
+      "count": 2223
+    },
+    {
+      "customer_type": "review_category_business_travellers",
+      "average_score": "8.7",
+      "from_year": 2020,
+      "count": 3323,
+      "question": [
+        {
+          "count": 3276,
+          "question": "hotel_clean",
+          "localized_question": "Cleanliness",
+          "score_comparison_to_ufi_average": 0,
+          "score": 8.7
+        },
+        {
+          "score": 8.6,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Comfort",
+          "question": "hotel_comfort",
+          "count": 3271
+        },
+        {
+          "count": 3285,
+          "question": "hotel_services",
+          "localized_question": "Facilities",
+          "score_comparison_to_ufi_average": 0,
+          "score": 8.5
+        },
+        {
+          "count": 3271,
+          "question": "hotel_location",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Location",
+          "score": "9.0"
+        },
+        {
+          "score": 8.8,
+          "question": "hotel_staff",
+          "count": 3277,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Staff"
+        },
+        {
+          "score": 8.3,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Total",
+          "question": "total",
+          "count": 3323
+        },
+        {
+          "localized_question": "Value for money",
+          "score_comparison_to_ufi_average": 0,
+          "count": 3281,
+          "question": "hotel_value",
+          "score": 8.6
+        },
+        {
+          "score": 8.7,
+          "question": "hotel_wifi",
+          "count": 898,
+          "localized_question": "WiFi",
+          "score_comparison_to_ufi_average": 0
+        }
+      ]
+    },
+    {
+      "question": [
+        {
+          "count": 1123,
+          "question": "hotel_clean",
+          "localized_question": "Cleanliness",
+          "score_comparison_to_ufi_average": 0,
+          "score": 8.7
+        },
+        {
+          "score": 8.7,
+          "question": "hotel_comfort",
+          "count": 1119,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Comfort"
+        },
+        {
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Facilities",
+          "question": "hotel_services",
+          "count": 1122,
+          "score": 8.6
+        },
+        {
+          "score": 9.1,
+          "question": "hotel_location",
+          "count": 1117,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Location"
+        },
+        {
+          "localized_question": "Staff",
+          "score_comparison_to_ufi_average": 0,
+          "count": 1121,
+          "question": "hotel_staff",
+          "score": 8.7
+        },
+        {
+          "score": 8.3,
+          "count": 1140,
+          "question": "total",
+          "localized_question": "Total",
+          "score_comparison_to_ufi_average": 0
+        },
+        {
+          "score": 8.5,
+          "localized_question": "Value for money",
+          "score_comparison_to_ufi_average": 0,
+          "question": "hotel_value",
+          "count": 1124
+        },
+        {
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "WiFi",
+          "question": "hotel_wifi",
+          "count": 219,
+          "score": 8.4
+        }
+      ],
+      "count": 1140,
+      "from_year": 2020,
+      "average_score": "8.6",
+      "customer_type": "group"
+    },
+    {
+      "question": [
+        {
+          "count": 4064,
+          "question": "hotel_clean",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Cleanliness",
+          "score": 8.6
+        },
+        {
+          "question": "hotel_comfort",
+          "count": 4057,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Comfort",
+          "score": 8.6
+        },
+        {
+          "question": "hotel_services",
+          "count": 4069,
+          "localized_question": "Facilities",
+          "score_comparison_to_ufi_average": 0,
+          "score": 8.6
+        },
+        {
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Location",
+          "count": 4059,
+          "question": "hotel_location",
+          "score": 9.2
+        },
+        {
+          "question": "hotel_staff",
+          "count": 4070,
+          "localized_question": "Staff",
+          "score_comparison_to_ufi_average": 0,
+          "score": "9.0"
+        },
+        {
+          "count": 4089,
+          "question": "total",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Total",
+          "score": 8.4
+        },
+        {
+          "count": 4066,
+          "question": "hotel_value",
+          "localized_question": "Value for money",
+          "score_comparison_to_ufi_average": 0,
+          "score": 8.5
+        },
+        {
+          "score": "9.0",
+          "localized_question": "WiFi",
+          "score_comparison_to_ufi_average": 0,
+          "count": 285,
+          "question": "hotel_wifi"
+        }
+      ],
+      "count": 4089,
+      "from_year": 2020,
+      "average_score": "8.7",
+      "customer_type": "family_with_young_children"
+    },
+    {
+      "average_score": "8.6",
+      "customer_type": "young_couple",
+      "from_year": 2020,
+      "question": [
+        {
+          "score": 8.5,
+          "count": 6827,
+          "question": "hotel_clean",
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Cleanliness"
+        },
+        {
+          "score": 8.5,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Comfort",
+          "count": 6808,
+          "question": "hotel_comfort"
+        },
+        {
+          "score": 8.4,
+          "localized_question": "Facilities",
+          "score_comparison_to_ufi_average": 0,
+          "count": 6828,
+          "question": "hotel_services"
+        },
+        {
+          "score": 9.1,
+          "localized_question": "Location",
+          "score_comparison_to_ufi_average": 0,
+          "question": "hotel_location",
+          "count": 6806
+        },
+        {
+          "localized_question": "Staff",
+          "score_comparison_to_ufi_average": 0,
+          "count": 6833,
+          "question": "hotel_staff",
+          "score": 8.8
+        },
+        {
+          "localized_question": "Total",
+          "score_comparison_to_ufi_average": 0,
+          "count": 6884,
+          "question": "total",
+          "score": 8.2
+        },
+        {
+          "score": 8.4,
+          "question": "hotel_value",
+          "count": 6825,
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "Value for money"
+        },
+        {
+          "score_comparison_to_ufi_average": 0,
+          "localized_question": "WiFi",
+          "question": "hotel_wifi",
+          "count": 486,
+          "score": 8.7
+        }
+      ],
+      "count": 6884
+    }
+  ],
+  "score_distribution": [
+    {
+      "percent": 0.69,
+      "score": 1,
+      "count": 111
+    },
+    {
+      "count": 43,
+      "percent": 0.27,
+      "score": 2
+    },
+    {
+      "count": 118,
+      "score": 3,
+      "percent": 0.73
+    },
+    {
+      "count": 202,
+      "score": 4,
+      "percent": 1.26
+    },
+    {
+      "percent": 2.39,
+      "score": 5,
+      "count": 384
+    },
+    {
+      "count": 550,
+      "score": 6,
+      "percent": 3.42
+    },
+    {
+      "percent": 11.66,
+      "score": 7,
+      "count": 1873
+    },
+    {
+      "count": 4773,
+      "percent": 29.71,
+      "score": 8
+    },
+    {
+      "count": 4394,
+      "score": 9,
+      "percent": 27.35
+    },
+    {
+      "score": 10,
+      "percent": 22.51,
+      "count": 3615
+    }
+  ],
+  "score_percentage": [
+    {
+      "percent": 50,
+      "score_word": "Superb",
+      "score_end": 10.1,
+      "count": 8009,
+      "score_start": 9
+    },
+    {
+      "score_end": 9,
+      "percent": 41,
+      "score_word": "Good",
+      "count": 6646,
+      "score_start": 7
+    },
+    {
+      "score_start": 5,
+      "count": 934,
+      "score_word": "Okay",
+      "percent": 6,
+      "score_end": 7
+    },
+    {
+      "score_start": 3,
+      "count": 320,
+      "score_word": "Poor",
+      "percent": 2,
+      "score_end": 5
+    },
+    {
+      "score_word": "Very poor",
+      "percent": 1,
+      "score_end": 3,
+      "score_start": 1,
+      "count": 154
+    }
+  ]
+}
