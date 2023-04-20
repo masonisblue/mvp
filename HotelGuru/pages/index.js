@@ -8,7 +8,6 @@ import Navbar from '../src/components/Navbar';
 export default function Index() {
   return (
     <>
-      <Navbar />
     </>
   );
 }
