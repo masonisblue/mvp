@@ -1,14 +1,28 @@
 {
-  "name": "atelier-fec",
-  "version": "1.0.0",
-  "description": "A web-based platform to search and review hotels, down to the very room",
-  "dependencies": {
-    "next": "^13.3.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+  "name": "material-next",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/masonisblue/rfp2302-mvp"
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "next": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-next": "latest"
   }
 }

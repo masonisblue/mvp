@@ -1,9 +1,9 @@
 import * as React from 'react';
 import { styled, alpha } from '@mui/material/styles';
-import { AppBar, Box, Toolbar, IconButton, Typography, InputBase } from '@mui/material';
-import SearchBar from '/Users/masonisblue/Hackreactor/rfp2302-mvp/hotel-guru/src/SearchBar.tsx';
+import { AppBar, Box, Toolbar, Typography } from '@mui/material';
+import SearchBar from './SearchBar';
 
-export default function AppBarSearch() {
+export default function Navbar() {
   return (
     <Box sx={{ flexGrow: 1}}>
       <AppBar position="static">
