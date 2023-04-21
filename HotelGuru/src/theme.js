@@ -25,6 +25,17 @@ const theme = createTheme({
   // typography: {
   //   fontFamily: roboto.style.fontFamily,
   // },
+  // // components: {
+  // //   MuiTypography: {
+  // //     styleOverrides: {
+  // //       root: {
+  // //         textDecoration: "none",
+  // //         color: "primary.contrastText"
+  // //       }
+  // //     }
+
+  // //   }
+  // // }
 });
 
 export default theme;

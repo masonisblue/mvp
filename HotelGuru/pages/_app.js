@@ -7,6 +7,7 @@ import { CacheProvider } from '@emotion/react';
 import theme from '../src/theme';
 import createEmotionCache from '../src/createEmotionCache';
 import Layout from '../src/components/Layout.jsx';
+import * as hotelsSearch from '/Users/masonisblue/Hackreactor/rfp2302-mvp/BookingAPI-data/V2/hotels-search';
 
 // Client-side cache, shared for the whole session of the user in the browser.
 const clientSideEmotionCache = createEmotionCache();
